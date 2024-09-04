@@ -42,10 +42,10 @@ mejor_alumno = alumno_con_mejor_nota(alumnos)
 print ("Alumnos registrados y sus notas:", alumnos)
 print(f"El promedio de las notas del equipo es: {promedio:.2f}")
 print(f"El alumno con la mejor nota es: {mejor_alumno}")
-"""
+
 
 """Punto 4"""
-"""
+
 def ingresar_palabras():
     diccionario = {}
     while True:
