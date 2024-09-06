@@ -97,3 +97,5 @@ while True:
     if palabra_a_buscar.lower() == 'salir':
         break
     buscar_palabra(diccionario_palabras, palabra_a_buscar)
+
+"1234"
